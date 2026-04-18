@@ -6,17 +6,17 @@
   "config_category": "sales",
   "config_description": "--High-Volume, Active targets--\n\nPopular restaurants sitting in the Top 30% of their local market for proven foot traffic and review volume within the last 90 days and a market scope of 1km.\n\nThese are the highest-velocity, actively transacting accounts for payment processing, POS systems, and supply chain sales.\n\nValidated by an \"Active Heartbeat\" signal.",
   "config_name": "Top 30% Active Restaurant Review Whales in Tampa-St. Petersburg-Clearwater, FL Metro Area, US",
-  "export_job_id": "04cb1c3d-277b-4e1d-ad97-b14964edbc6d",
+  "export_job_id": "500846b8-50be-449d-9aff-7880438ab5f8",
   "github_org": "Beamstation-Datasets",
   "id_short": 823831,
   "location_name": "Tampa-St. Petersburg-Clearwater, FL",
   "location_type": "metro",
   "repo_name": "top-30-active-restaurant-review-whales-in-tampa-st-petersburg-clearwater-fl-metro-sample-823831",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/823831/beamstation_823831_restaurants-us-tampastpetersburgclearwaterfl_SAMPLE_DIST.csv",
-  "sample_pct": 13.17,
+  "sample_pct": 9.99,
   "sample_records": 277,
   "sample_sha256": "1a07ccd07c021805087ddea6293e438b88a71b515f530c55310a3bb02e1a1c1f",
   "sample_size_bytes": 1120698,
-  "total_records": 2103,
-  "updated_at": "2026-04-01T00:33:51.840267+00:00"
+  "total_records": 2773,
+  "updated_at": "2026-04-15T02:19:06.717373+00:00"
 }
