@@ -1,6 +1,6 @@
 # Top 30% Active Restaurant Review Whales in Tampa-St. Petersburg-Clearwater, FL Metro Area, US
 
-> Free BeamStation sample export with 166 rows and masked direct-contact fields.
+> Free BeamStation sample export with 215 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `823831` |
 | Location | Tampa-St. Petersburg-Clearwater, FL |
 | Category | Restaurants |
-| Full dataset size | 1,667 records |
-| Free sample size | 166 records (9.96%) |
-| Last export | 2026-04-22T07:10:13.204821+00:00 |
+| Full dataset size | 2,156 records |
+| Free sample size | 215 records (9.97%) |
+| Last export | 2026-04-29T09:13:46.004278+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/top-30-active-restaurant-review-whales-in-tampa-st-petersburg-clearwater-fl-metro-sample-823831/releases/download/sample-latest/beamstation_823831_restaurants-us-tampastpetersburgclearwaterfl_SAMPLE_DIST.csv) |
 
 ## What is in this sample
