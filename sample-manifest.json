@@ -1,12 +1,12 @@
 {
-  "export_job_id": "12372d54-dcac-47ce-81bd-306b650817fc",
+  "export_job_id": "4e168040-8f6e-4b62-9f59-400860f3c20e",
   "id_short": 823831,
-  "published_at": "2026-04-23T07:11:43Z",
+  "published_at": "2026-04-29T19:44:23Z",
   "repo_name": "top-30-active-restaurant-review-whales-in-tampa-st-petersburg-clearwater-fl-metro-sample-823831",
   "sample_asset_name": "beamstation_823831_restaurants-us-tampastpetersburgclearwaterfl_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/823831/beamstation_823831_restaurants-us-tampastpetersburgclearwaterfl_SAMPLE_DIST.csv",
-  "sample_records": 166,
-  "sample_sha256": "25ff56d03b136a1fdc291185ef88b84b1fef67eec3da1808fafad8d5203ad491",
-  "sample_size_bytes": 666804,
-  "total_records": 1667
+  "sample_records": 215,
+  "sample_sha256": "1f4799a3c78bc2a6551f1d52ad55a73b79eb94d1bf5cb7e6fa206e07fe63b20a",
+  "sample_size_bytes": 870140,
+  "total_records": 2156
 }
